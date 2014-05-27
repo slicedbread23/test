@@ -1,0 +1,1 @@
+Stuff to be added to every github project that gets pushed to the online repo.
